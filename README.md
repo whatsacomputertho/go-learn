@@ -4,4 +4,3 @@ This repository will store all go code I develop in my effort to learn the langu
 ## Contents
 
 1. [Hello, world!](cmd/hello-world)
-2. 
