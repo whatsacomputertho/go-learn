@@ -8,3 +8,4 @@ This repository will store all go code I develop in my effort to learn the langu
 3. [Primitives](cmd/primitives)
 4. [Constants](cmd/constants)
 5. [Arrays and Slices](cmd/arrays-slices)
+6. [Maps and Structs](cmd/maps-structs)
