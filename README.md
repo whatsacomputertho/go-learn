@@ -11,3 +11,4 @@ This repository will store all go code I develop in my effort to learn the langu
 6. [Maps and Structs](cmd/maps-structs)
 7. [Control Flow](cmd/control-flow)
 8. [Looping](cmd/looping)
+9. [Defer, panic, and recover](cmd/defer-panic-recover)
