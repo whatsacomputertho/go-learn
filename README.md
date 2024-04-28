@@ -14,3 +14,4 @@ This repository will store all go code I develop in my effort to learn the langu
 9. [Defer, panic, and recover](cmd/defer-panic-recover)
 10. [Pointers](cmd/pointers)
 11. [Functions](cmd/functions)
+12. [Interfaces](cmd/interfaces)
