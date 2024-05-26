@@ -16,3 +16,4 @@ This repository will store all go code I develop in my effort to learn the langu
 11. [Functions](cmd/functions)
 12. [Interfaces](cmd/interfaces)
 13. [GoRoutines](cmd/goroutines)
+14. [Channels](cmd/channels)
